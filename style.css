@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    width: 100%;
+    height: 100vh ;
+    background-image: linear-gradient(to right, #fc5c7d, #6a82fb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-container{
+    width: 400px;
+    height: 400px;
+    background-color: black ;
+}
